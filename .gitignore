@@ -1,0 +1,6 @@
+output/*
+maps/*.kra
+maps/map_17_dirty.png
+input/*
+.idea
+__pycache__
